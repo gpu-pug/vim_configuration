@@ -3,9 +3,7 @@
 My vim configuration, with plugins. Nothing fancy, loaded here for sake of portability.
 
 ## Installation
-* Put .vimrc in ~
-* Put colors in ~/.vim/
-* run in terminal:
+Run in terminal:
 ```bash
 echo alias vi='vim' >> ~/.bashrc; \
 cp -R colors ~/.vim/; \
